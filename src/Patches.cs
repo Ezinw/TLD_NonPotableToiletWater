@@ -30,7 +30,7 @@ namespace NonPotableToiletWater
                 {
                     WaterSource waterSource = collider.GetComponent<WaterSource>();
 
-                    if (waterSource != null) ||
+                    if (waterSource != null)
                     {
                          waterSource.m_CurrentLiquidQuality = LiquidQuality.NonPotable;
                     }
