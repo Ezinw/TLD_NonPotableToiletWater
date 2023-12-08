@@ -3,7 +3,7 @@
 - A mod for The Long Dark that sets the quality of all toilet water to unsafe and must be boiled or purified for safe consumption.
 
 Requirements:
-- [The Long Dark](https://www.thelongdark.com/) (Game version 2.24)
+- [The Long Dark](https://www.thelongdark.com/) (Game version 2.25)
 - [MelonLoader](https://github.com/LavaGang/MelonLoader/) (0.6.1)
 
 Thank you:
