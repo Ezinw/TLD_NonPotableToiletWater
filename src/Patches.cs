@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace NonPotableToiletWater
 {
-    [HarmonyPatch(typeof(WaterSource), "Update")]
+    [HarmonyPatch(typeof(WaterSource), nameof(WaterSource.Update))]
     public class NonPotableToiletWater
     {
         static void Postfix(WaterSource __instance)
@@ -25,11 +25,12 @@ namespace NonPotableToiletWater
 
             foreach (var collider in colliders)
             {
-                if (collider.CompareTag("Stone"))
+                if (collider.CompareTag("Stone") ||
+                    collider.CompareTag("Metal"))
                 {
                     WaterSource waterSource = collider.GetComponent<WaterSource>();
 
-                    if (waterSource != null)
+                    if (waterSource != null) ||
                     {
                          waterSource.m_CurrentLiquidQuality = LiquidQuality.NonPotable;
                     }
