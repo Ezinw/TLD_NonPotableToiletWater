@@ -11,6 +11,12 @@ namespace NonPotableToiletWater
 
         static void Postfix(WaterSource __instance)
         {
+            if (GameManager.IsMainMenuActive() || 
+                GameManager.m_IsPaused) 
+            { 
+                return; 
+            }
+            
             frameCounter++;
 
             int frameInterval = 5;
