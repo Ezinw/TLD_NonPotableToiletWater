@@ -5,8 +5,8 @@
 
 
 Requirements:
-- [The Long Dark](https://www.thelongdark.com/) (Game version 2.26)
-- [MelonLoader](https://github.com/LavaGang/MelonLoader/) (0.6.1)
+- [The Long Dark](https://www.thelongdark.com/) (Game version 2.39)
+- [MelonLoader](https://github.com/LavaGang/MelonLoader/) (0.6.6)
 
 Thank you:
 
