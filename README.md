@@ -1,12 +1,13 @@
 # TLD_NonPotableToiletWater
 
 - A mod for The Long Dark that sets the quality of all toilet water to unsafe and must be boiled or purified for safe consumption.
-- If using [Universal Tweaks](https://github.com/Deaadman/UniversalTweaks) mod, you do not need this in your mods folder.
+
+- This mod has been merged into [Universal Tweaks](https://github.com/Deaadman/UniversalTweaks) If you're using Universal Tweaks you do not need this in your mods folder.
 
 
 Requirements:
-- [The Long Dark](https://www.thelongdark.com/) (Game version 2.39)
-- [MelonLoader](https://github.com/LavaGang/MelonLoader/) (0.6.6)
+- [The Long Dark](https://www.thelongdark.com/) (Game version 2.51)
+- [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader/)  (Enable Nightly Builds - v0.7.2-ci.2388+)
 
 Thank you:
 
