@@ -7,7 +7,7 @@ This mod has been merged into [Universal Tweaks](https://github.com/Deaadman/Uni
 
 Requirements:
 - [The Long Dark](https://www.thelongdark.com/) (Game version 2.51)
-- [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader/)  (Enable Nightly Builds - v0.7.2-ci.2388+)
+- [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader/)  (Enable Nightly Builds - v0.7.2-ci.2394 or newer)
 
 Thank you:
 
